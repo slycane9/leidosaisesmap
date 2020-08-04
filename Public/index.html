@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Leidos Tribal Data</title>
+    <!-- Chart JS -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chartjs-plugin-deferred@1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
+
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
@@ -18,7 +23,11 @@
       integrity="sha256-x8PYmLKD83R9T/sYmJn1j3is/chhJdySyhet/JuHnfY="
       crossorigin="anonymous"
     />
+
+    <!-- Local CSS -->
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/graph.css" />
+
   </head>
 
   <body>
@@ -139,17 +148,18 @@
             <div class="row">
               <div class="col-md-4 my-3">
                 <div class="bg-mattBlackLight px-3 py-3">
-                  <h4 class="mb-2">New Clients</h4>
-                  <div class="progress" style="height: 16px;">
+                  <h4 class="mb-2">Number of Tribes and Trust Lands</h4>
+                  <div class="progress" style="height: 30px;font-size:x-large;">
                     <div
-                      class="progress-bar bg-warning text-mattBlackDark"
+                      class="progress-bar bg-white text-mattBlackDark"
                       role="progressbar"
-                      style="width: 25%;"
-                      aria-valuenow="25"
+                      style="width: 100%;"
+                      aria-valuenow="100"
                       aria-valuemin="0"
                       aria-valuemax="100"
+
                     >
-                      25
+                      839
                     </div>
                   </div>
                 </div>
@@ -157,7 +167,7 @@
               <div class="col-md-4 my-3">
                 <div class="bg-mattBlackLight px-3 py-3">
                   <h4 class="mb-2">New Projects</h4>
-                  <div class="progress" style="height: 16px;">
+                  <div class="progress" style="height: 30px;">
                     <div
                       class="progress-bar bg-info text-mattBlackDark"
                       role="progressbar"
@@ -174,7 +184,7 @@
               <div class="col-md-4 my-3">
                 <div class="bg-mattBlackLight p-3">
                   <h4 class="mb-2">Completed</h4>
-                  <div class="progress" style="height: 16px;">
+                  <div class="progress" style="height: 30px;">
                     <div
                       class="progress-bar bg-success"
                       role="progressbar"
@@ -209,21 +219,19 @@
             </div>
             <div class="row">
               <div class="col-md-4 my-3">
-                <div class="bg-mattBlackLight px-3 py-3">
+                <div class="bg-white px-3 py-3">
                   <h4 class="mb-2">Insert Chart HERE</h4>
-                  <div class="progress" style="height: 16px;">
-                    <div
-                      class="progress-bar bg-warning text-mattBlackDark"
-                      role="progressbar"
-                      style="width: 25%;"
-                      aria-valuenow="25"
-                      aria-valuemin="0"
-                      aria-valuemax="100"
-                    >
-                      25
-                    </div>
+                  <canvas class="" id="chartJSContainer" width="600" height="400"></canvas>
                   </div>
-                </div>
+              </div>
+
+              <div class="col-md-4 my-3">
+                <div class="bg-white px-3 py-3">
+                  <div class="container-fluid">
+                  <h4 class="mb-2">Insert Chart HERE</h4>
+                  <canvas class="" id="d" width="600" height="430"></canvas>
+                  </div>
+                    </div>
               </div>
 
             </div>
@@ -247,5 +255,86 @@
       crossorigin="anonymous"
     ></script>
     <script src="./js/script.js"></script>
+    <script>
+    var options = {
+  type: 'line',
+  data: {
+    labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+    datasets: [
+	    {
+	      label: '# of Votes',
+	      data: [12, 19, 3, 5, 2, 3],
+      	borderWidth: 1
+    	},
+			{
+				label: '# of Points',
+				data: [7, 11, 5, 8, 3, 7],
+				borderWidth: 1
+			}
+		]
+  },
+  options: {
+  	scales: {
+    	yAxes: [{
+        ticks: {
+					reverse: false
+        }
+      }]
+    }
+  }
+}
+
+var ctx = document.getElementById('chartJSContainer').getContext('2d');
+new Chart(ctx, options);
+  </script>
+
+
+  <script>
+  var chart = document.getElementById("d").getContext('2d');
+
+  // Bar chart
+let lineChart = new Chart(chart, {
+  type: 'bar',
+  data: {
+    labels: ["Investment", "Advertisement", "Risk", "Business", "Loan",],
+    datasets: [
+      {
+        label: "USD ($)",
+        backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f","#E59866","#c45850"],
+        data: [325999,200230,150000,500267,250000]
+      }
+    ]
+  },
+  options: {
+    maintainAspectRatio: true,
+    animation: {
+          duration: 4000,
+        },
+    legend: { display: false },
+    title: {
+      display: true,
+      text: 'Company Resource Allocations 2021'
+    },
+    scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        },
+    plugins: {
+          deferred: {
+            xOffset: 150, // defer until 150px of the canvas width are inside the viewport
+            yOffset: '50%', // defer until 50% of the canvas height are inside the viewport
+            delay: 250 // delay of 500 ms after the canvas is considered inside the viewport
+          },
+          datalabels: {
+      // hide datalabels for all datasets
+      display: false
+   },
+        }
+  }
+});
+</script>
   </body>
 </html>

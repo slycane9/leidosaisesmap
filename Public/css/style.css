@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Courgette");
+
+.transparent { background-color: white }
+
 .bg-mattBlackLight {
   background-color: #303337;
 }
@@ -18,6 +21,9 @@
 
 .bg-mattGray {
   background-color: #878d8d;
+}
+.bg-white {
+  background-color: #eee;
 }
 
 .text-mattGray, body, .nav-link .icon, .nav-link .text {
@@ -99,6 +105,9 @@ body {
 
 .nav-link .text {
   font-size: 0.875rem;
+}
+.bg-white {
+    background-color : #eee;
 }
 
 @media (min-width: 992px) {

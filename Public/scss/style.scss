@@ -9,7 +9,8 @@ $colors: (
   'mattBlackLight': '#303337',
   'mattBlackDark': '#212121',
   'mattGray': '#878d8d',
-  'mattRed': '#ec6271'
+  'mattRed': '#ec6271',
+  'white': '#eee'
 );
 
 @each $colorName, $colorValue in $colors {
