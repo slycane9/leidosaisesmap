@@ -20,7 +20,7 @@ fs.readFile('./DataSet/BroadBandTechCleaned3.csv', async (err, data) => {
   console.log(file instanceof Array);
   console.log(typeof file[0]);
   var cur = file;
-  console.log(cur);
+  //console.log(cur);
 //formatted as a JavaScript array of objects.
 var myJsonString = JSON.stringify(file);
 
