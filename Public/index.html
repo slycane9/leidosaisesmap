@@ -13,6 +13,7 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
 
 
+
     <!-- Chart JS -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chartjs-plugin-deferred@1"></script>
@@ -274,13 +275,6 @@
                 <div class="bg-white px-3 py-3">
                   <h4 class="mb-2">MapBox Map</h4>
                   <div id='map2' style='width: 400px; height: 300px;'></div>
-                  <script>
-                    mapboxgl.accessToken = 'pk.eyJ1Ijoia3NjaHJvY2sxMTciLCJhIjoiY2tkaTdwOG03MDJhODJ6bnV4eDhxMDM4bCJ9.DdeMVnp9tQDAnnYzUhlxzQ';
-                    var map = new mapboxgl.Map({
-                    container: 'map',
-                    style: 'mapbox://styles/mapbox/streets-v11'
-                    });
-                    </script>
                   </div>
               </div>
 
@@ -289,13 +283,22 @@
         </main>
       </div>
     </div>
+    <script>
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia3NjaHJvY2sxMTciLCJhIjoiY2tkaTZzMXc4MDIxdzJxczJsN24zM2NtMyJ9.WHqbpN3MHLAhCkn8om62Qw';
+  var map = new mapboxgl.Map({
+  container: 'map2',
+  style: 'mapbox://styles/kschrock117/ckdibqeqm0fgr1io1r4npjs4o', // stylesheet location
+  center: [-94.613, 42.391], // starting position [lng, lat]
+  zoom: 3 // starting zoom
+  });
+  </script>
 
     <script>
       var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 2,
-          center: new google.maps.LatLng(2.8,-187.3),
+          zoom: 1,
+          center: new google.maps.LatLng(37.0902,95.7129),
           mapTypeId: 'terrain'
         });
 
