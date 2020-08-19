@@ -1,0 +1,839 @@
+﻿TribalName,ADSL4/1,ADSL10/1,ADSL25/3,ADSL100/10,Cable4/1,Cable10/1,Cable25/3,Cable100/10,Fiber4/1  ,Fiber10/1,Fiber25/3,Fiber100/10,FixedWireless4/1  ,FixedWireless10/1,FixedWireless25/3,FixedWireless100/10
+Mohegan Reservation,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Table Mountain Rancheria,100,100,100,0,0,0,0,0,0,0,0,0,100,100,100,0
+Greenville Rancheria,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flathead Reservation,88.03,85.95,35.63,0,48.03,48.03,42.21,42.21,43.53,43.53,43.53,43.18,71.46,71.46,0,0
+Bishop Reservation,71.21,71.21,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Fallon Paiute-Shoshone Reservation,73.38,73.38,41.48,0,0,0,0,0,53.29,53.29,53.29,53.29,100,0,0,0
+Walker River Reservation,0,0,0,0,0,0,0,0,0,0,0,0,97.81,0.34,0.34,0.34
+Los Coyotes Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Manzanita Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Mesa Grande Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Pala Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Isabella Reservation,71.87,66.33,0,0,82.51,82.51,82.51,82.51,25.12,25.12,25.12,25.12,99.97,99.97,97.5,51.63
+Roaring Creek Rancheria,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pueblo of Pojoaque,82.47,74.58,54.24,32.52,2.94,2.94,2.94,0,0,0,0,0,100,100,37.13,0
+Rosebud Indian Reservation,93.62,91.83,23.13,0,56.63,56.63,56.63,0,3.22,3.22,3.22,3.22,0,0,0,0
+Woodfords Community,74.25,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spokane Reservation,26.32,26.32,23.46,1.72,0,0,0,0,0,0,0,0,100,100,100,100
+Chitimacha Reservation,0,0,0,0,50.27,50.27,50.27,50.27,0,0,0,0,100,100,100,0
+"Coos, Lower Umpqua, and Siuslaw Reservation",0,0,0,0,99.69,99.69,99.69,99.69,0,0,0,0,0,0,0,0
+Pascua Pueblo Yaqui Reservation,11.07,11.07,11.07,2.37,0,0,0,0,0,0,0,0,100,100,100,0
+Berry Creek Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enterprise Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,60,60,0,0
+Shakopee Mdewakanton Sioux Community,78.79,78.79,35.61,9.34,35.86,35.86,35.86,35.86,97.47,97.47,97.47,97.47,39.39,0,0,0
+Santa Rosa Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+L'Anse Reservation,81.99,81.99,0,0,87.29,87.29,87.29,87.29,17.45,17.45,17.45,17.45,0,0,0,0
+Paucatuck Eastern Pequot (state) Reservation,,,,,,,,,,,,,,,,
+Mississippi Choctaw Reservation,18.44,18.44,9.13,0.85,59.96,59.96,59.96,0,19.59,19.59,19.59,19.59,21.44,21.44,0,0
+Duck Valley Reservation,22.87,22.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southern Ute Reservation,44.96,44.96,21.85,0,13.16,13.16,13.16,13.16,0.06,0.06,0.06,0.06,77.01,76.58,76.5,0
+Ute Mountain Reservation,62.44,52.55,46.14,0,0,0,0,0,0,0,0,0,15.53,7.9,0,0
+Shoalwater Bay Indian Reservation,0,0,0,0,92.5,92.5,92.5,92.5,0,0,0,0,0,0,0,0
+Lower Sioux Indian Community,36.34,36.34,36.34,0,41.8,41.8,41.8,41.8,0,0,0,0,100,100,100,0
+Redwood Valley Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Sherwood Valley Rancheria,0,0,0,0,73.55,73.55,73.55,73.55,0,0,0,0,100,100,0,0
+Middletown Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Paiute (UT) Reservation,32.66,25,6.25,0,,,,,,,,,88.91,88.91,88.91,88.91
+San Pasqual Reservation,81.63,81.63,69.38,25.39,73.04,73.04,73.04,73.04,0,0,0,0,100,100,100,100
+Santa Ysabel Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Fort Berthold Reservation,4.75,4.75,4.75,4.75,0,0,0,0,86.54,86.54,86.54,86.54,1.8,0,0,0
+Mooretown Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,8.72,8.72,0,0
+Pine Ridge Reservation,68.16,67.19,10.51,0,16.6,16.6,16.6,0,64.08,64.08,64.08,64.08,0,0,0,0
+Little Traverse Bay Reservation,0,0,0,0,16.67,16.67,16.67,16.67,22.22,22.22,22.22,22.22,100,100,5.56,0
+Pleasant Point Reservation,100,100,52.69,0,100,100,100,100,0,0,0,0,4.57,4.57,0,0
+Miccosukee Reservation,91.11,91.11,91.11,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laytonville Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Manchester-Point Arena Rancheria,0,0,0,0,69.48,69.48,69.48,69.48,0,0,0,0,0,0,0,0
+Iowa (KS-NE) Reservation,57.97,57.97,47.83,0,0,0,0,0,0,0,0,0,100,7.97,0,0
+Sac and Fox Nation Reservation,1.29,1.29,0,0,0,0,0,0,98.06,98.06,98.06,65.81,76.77,76.77,0,0
+Lytton Rancheria,100,100,100,0,0,0,0,0,0,0,0,0,100,100,100,0
+Yavapai-Apache Nation Reservation,15.01,15.01,0,0,100,100,89.9,89.9,0,0,0,0,68.76,68.76,68.76,0
+Cabazon Reservation,95.01,10.91,0,0,90.57,90.57,90.57,90.57,82.07,82.07,82.07,82.07,7.3,1.39,1.39,0.28
+Ysleta del Sur Pueblo,0,0,0,0,99.73,99.73,99.73,99.73,0,0,0,0,0,0,0,0
+Ohkay Owingeh,87.84,86.37,55.87,3.97,0,0,0,0,3.97,3.97,1.05,0.1,75.24,42.82,29,0
+Robinson Rancheria,0,0,0,0,82.38,82.38,82.38,82.38,0,0,0,0,41.97,41.97,0,0
+Zia Pueblo,2.49,2.49,2.49,0,0,0,0,0,0,0,0,0,100,1.93,1.47,0
+Warm Springs Reservation,49.14,47.31,0,0,0,0,0,0,0,0,0,0,93.72,66.26,66.26,0
+North Fork Rancheria,100,100,100,0,0,0,0,0,0,0,0,0,100,100,100,0
+Picayune Rancheria,100,100,96.61,0,0,0,0,0,3.39,3.39,3.39,0,100,100,100,0
+Fort Independence Reservation,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lone Pine Reservation,100,100,0,0,84.83,84.83,84.83,84.83,0,0,0,0,0,0,0,0
+Timbi-Sha Shoshone Reservation,0,0,0,0,,,,,0,0,0,0,0,0,0,0
+Isleta Pueblo,51.55,49.03,43.23,29.31,37.59,37.59,37.59,37.59,0,0,0,0,100,100,0.78,0
+Big Lagoon Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue Lake Rancheria,0,0,0,0,90,90,90,90,0,0,0,0,100,100,0,0
+Prairie Band of Potawatomi Nation Reservation,26.13,26.13,4.3,0,0,0,0,0,9.15,9.15,9.15,9.15,100,100,100,0
+Crow Creek Reservation,0,0,0,0,0,0,0,0,100,100,100,100,88.11,63.42,63.42,0
+Benton Paiute Reservation,0,0,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Bridgeport Reservation,100,100,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Pinoleville Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Hollywood Reservation,70.56,70.56,70.56,19.86,86.64,86.64,86.64,86.64,0,0,0,0,0,0,0,0
+Pueblo de Cochiti,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Nambe Pueblo,91.37,91.37,71.38,42.84,13.03,13.03,13.03,13.03,0,0,0,0,100,100,12.09,0
+San Ildefonso Pueblo,51.77,51.19,42.42,21.92,1.8,1.8,1.8,1.8,0,0,0,0,100,100,40.73,0
+Santa Clara Pueblo,97.04,94.59,72.47,24.72,1.65,1.65,1.65,1.65,22.96,22.96,20.41,18.68,95.03,64.06,45.02,0
+Santo Domingo Pueblo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inaja and Cosmit Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Jamul Indian Village,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+La Jolla Reservation,0,0,0,0,1.63,1.63,1.63,1.63,0,0,0,0,100,100,100,100
+Onondaga Nation Reservation,0,0,0,0,51.98,51.98,51.98,51.98,0,0,0,0,0,0,0,0
+St. Regis Mohawk Reservation,0,0,0,0,0.53,0.53,0.53,0.53,99.87,99.87,99.87,99.87,100,100,37.48,0
+Tohono O'odham Nation Reservation,22.07,22.05,1.47,0,1,1,1,1,31.2,31.2,31.2,31.2,96.74,24.53,13.21,0
+Grand Traverse Reservation,0,0,0,0,100,100,100,100,0,0,0,0,100,100,100,0
+Little River Reservation,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Grand Ronde Community,65.8,65.8,40.14,0,51.59,51.59,48.26,40.43,0,0,0,0,0.43,0.43,0,0
+Kaibab Indian Reservation,32.96,32.96,32.96,0,0,0,0,0,0,0,0,0,35.93,16.3,0,0
+Augustine Reservation,100,100,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Port Gamble Reservation,62.57,62.57,36.21,0,99.78,99.78,99.78,99.78,0,0,0,0,0,0,0,0
+Quartz Valley Reservation,96.61,96.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oneida Nation Reservation,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+San Carlos Reservation,78.62,0,0,0,0,0,0,0,46.62,46.62,0,0,21.15,20.85,0,0
+Tonto Apache Reservation,59.17,59.17,0,0,59.17,59.17,59.17,59.17,0,0,0,0,0,0,0,0
+Sulphur Bank Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Dry Creek Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Stewarts Point Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Match-e-be-nash-she-wish Band of Pottawatomi Reservation,0,0,0,0,,,,,0,0,0,0,0,0,0,0
+Stewart Community,85.39,85.39,82.58,17.42,91.57,91.57,91.57,91.57,0,0,0,0,0,0,0,0
+Klamath Reservation,0,0,0,0,0,0,0,0,69.23,69.23,69.23,69.23,7.69,7.69,0,0
+Hoopa Valley Reservation,0,0,0,0,0,0,0,0,0,0,0,0,97.14,97.14,0,0
+Fort Mojave Reservation,11.01,11.01,0,0,20.31,20.31,20.31,20.31,96.88,96.88,96.88,0,76.49,76.49,0,0
+Smith River Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Duckwater Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Redding Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Chicken Ranch Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,100,100,100,0
+Tuolumne Rancheria,100,100,0,0,47.03,47.03,47.03,47.03,0,0,0,0,100,100,100,0
+Fort Pierce Reservation,98.7,98.7,98.7,0,0,0,0,0,0,0,0,0,100,100,100,100
+La Posta Indian Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Coeur d'Alene Reservation,21.09,17.63,0,0,6.06,6.06,6.06,6.06,11.06,11.06,11.06,11.06,87.52,87.52,69.03,0
+Nez Perce Reservation,61.26,60.2,12.29,1.82,24.16,24.16,0,0,0,0,0,0,89.43,73.58,34.27,0.86
+Big Pine Reservation,100,100,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Fort Sill Apache Indian Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capitan Grande Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Ewiiaapaayp Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Laguna Pueblo,40.34,40.34,35.71,0,0,0,0,0,0,0,0,0,4.31,1.13,0,0
+Navajo Nation Reservation,54.04,49.14,4.67,0,0,0,0,0,0,0,0,0,81.35,2.38,0.2,0
+Summit Lake Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rumsey Indian Rancheria,94.29,94.29,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Tampa Reservation,30.23,30.23,0,0,67.44,67.44,67.44,67.44,30.23,30.23,30.23,30.23,0,0,0,0
+Forest County Potawatomi Community,92.65,92.65,0,0,3.57,3.57,3.57,3.57,0,0,0,0,0,0,0,0
+Sokaogon Chippewa Community,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skull Valley Reservation,40.37,40.37,0,0,0,0,0,0,26.61,26.61,26.61,26.61,0,0,0,0
+Indian Township Reservation,92.5,92.5,76.79,0,17.8,17.8,17.8,17.8,0,0,0,0,99.65,0,0,0
+Yavapai-Prescott Reservation,95.02,95.02,81.45,0,97.29,97.29,97.29,97.29,0,0,0,0,100,100,100,0
+Cocopah Reservation,4.65,1.92,1.52,0,32.93,32.93,32.93,32.93,0,0,0,0,56.67,0,0,0
+Fort Yuma Indian Reservation,58.52,58.52,36.2,6.87,19.34,19.34,19.34,19.34,0,0,0,0,60.61,0,0,0
+Fort Belknap Reservation,43.58,42.57,41.95,0,0,0,0,0,53.35,53.35,53.35,53.35,93.86,93.86,0,0
+Upper Lake Rancheria,0,0,0,0,73.33,73.33,73.33,73.33,0,0,0,0,77.78,77.78,0,0
+Leech Lake Reservation,60.85,60.43,31.08,0,29.16,29.16,29.16,29.16,70.97,70.97,70.97,70.97,0,0,0,0
+White Earth Reservation,64.35,62.07,44.74,0,23.97,23.97,23.97,23.97,76.95,76.95,76.95,76.95,0,0,0,0
+Cheyenne River Reservation,0.31,0.31,0.31,0,0,0,0,0,90.32,90.32,90.32,90.32,4.71,4.71,4.71,0
+Hoh Indian Reservation,70.94,70.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kootenai Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Carson Colony,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Crow Reservation,19.92,9.73,5.74,0,0.38,0.38,0,0,51.87,51.87,51.87,51.3,48.8,48.77,48.77,0
+Spirit Lake Reservation,92.42,92.42,92.06,0,0,0,0,0,100,100,100,100,0,0,0,0
+Omaha Reservation,62,60.64,28.02,0,20.73,20.73,20.73,20.73,5.48,5.48,5.48,0,99.96,0.08,0,0
+Cold Springs Rancheria,100,100,84.92,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Rosa Reservation,13.33,13.33,0,0,0,0,0,0,58.67,58.67,58.67,58.67,0,0,0,0
+Menominee Reservation,73.81,52.59,0,0,71.53,71.53,71.53,71.53,0,0,,0,92.44,92.44,11.03,0
+Karuk Reservation,15.07,15.07,0,0,0,0,0,0,84.93,84.93,84.93,84.93,0,0,0,0
+Rohnerville Rancheria,0,0,0,0,84.62,84.62,84.62,84.62,0,0,0,0,100,100,0,0
+Table Bluff Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Trinidad Rancheria,0,0,0,0,48.44,48.44,48.44,48.44,0,0,0,0,34.37,34.37,0,0
+Yurok Reservation,0,0,0,0,0,0,0,0,1.87,1.87,1.87,1.87,0,0,0,0
+Bois Forte Reservation,91.67,87.56,44.52,0,0,0,0,0,0.68,0.68,0.68,0.68,0,0,0,0
+Fond du Lac Reservation,66.49,63.01,46.48,16.32,57.9,57.9,57.9,57.9,0.54,0.54,0.54,0.54,5.51,4.12,4.12,0
+Stockbridge Munsee Community,87.11,86.79,0,0,87.11,86.79,0,0,0,0,0,0,77.65,77.65,76.35,0
+Kalispel Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,99.55
+Coushatta Reservation,0,0,0,0,4.55,4.55,4.55,4.55,0,0,0,0,0,0,0,0
+Susanville Indian Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Mashantucket Pequot Reservation,47.81,47.81,0,0,99.66,99.66,99.66,99.66,0,0,0,0,0,0,0,0
+Lac Vieux Desert Reservation,14.6,14.6,0,0,100,100,85.4,85.4,0,0,0,0,85.4,85.4,0,0
+San Manuel Reservation,60.58,60.58,60.58,43.07,100,100,100,100,0,0,0,0,100,100,100,100
+Cowlitz Reservation,0,0,0,0,100,100,100,100,100,100,100,100,100,100,100,0
+Barona Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Santa Ana Pueblo,72.38,9.82,9.55,9.16,72.38,9.55,9.55,9.55,0,0,0,0,100,98.69,98.69,0
+Lower Brule Reservation,96.57,92.52,28.25,0,96.57,92.52,65.73,0,36.92,36.92,36.92,36.92,60.63,60.63,60.63,0
+Jemez Pueblo,91.18,91.18,79.83,22.94,91.18,91.18,79.83,22.94,1.88,1.88,1.88,1.88,100,1.04,0,0
+Jicarilla Apache Nation Reservation,81.91,81.59,73.25,7.79,81.91,81.59,73.25,7.79,6.95,6.95,6.95,6.95,99.56,0,0,0
+San Felipe Pueblo,4.4,4.4,2.46,0,7.9,7.9,5.95,3.49,0,0,0,0,100,100,100,0
+Shingle Springs Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Alabama-Coushatta Reservation,91.59,91.59,0,0,91.59,91.59,0,0,0,0,0,0,0,0,0,0
+Rocky Boy's Reservation,0,0,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Maricopa (Ak Chin) Indian Reservation,66.79,66.79,49.53,26.63,68.58,68.58,57.12,37.01,0,0,0,0,100,100,0,0
+Big Valley Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Tunica-Biloxi Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rincon Reservation,0,0,0,0,17.4,17.4,17.4,17.4,0,0,0,0,100,100,100,100
+Lac Courte Oreilles Reservation,63.94,63.8,17.86,0,97.08,96.94,86.66,77.87,1.93,1.93,1.93,1.93,0,0,0,0
+Bad River Reservation,38,38,5.55,0,39.6,39.6,7.14,1.6,7.77,7.77,7.77,7.77,97.09,97.09,0,0
+Upper Sioux Community,85.92,85.92,65.49,0,100,100,79.58,36.62,0,0,0,0,100,100,100,0
+Taos Pueblo,44.96,38.56,9.91,0,75.96,71.67,66.3,0,50.86,50.86,50.86,50.86,100,100,0,0
+Kickapoo (TX) Reservation,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Mille Lacs Reservation,89.62,88.49,0,0,94.99,94.26,49.64,1,1.43,1.43,1.43,1.43,0.04,0.04,0,0
+Catawba Reservation,50.58,50.58,0,0,100,100,100,79.71,0,0,0,0,0,0,0,0
+Picuris Pueblo,0,0,0,0,0,0,0,0,51.23,51.23,51.23,51.23,100,0.52,0.52,0
+Coyote Valley Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Guidiville Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Nisqually Reservation,27.14,27.14,27.14,0,89.68,89.68,89.68,62.54,27.14,27.14,27.14,0,0,0,0,0
+Mescalero Reservation,90.25,90.25,0,0,90.25,90.25,0,0,0,0,0,0,81.03,9.63,0,0
+Port Madison Reservation,86.07,86.07,29.73,0,99.21,99.21,98.44,98.33,4.4,4.4,4.4,4.4,0,0,0,0
+Santee Reservation,86.51,56.42,42.02,0,86.51,56.42,42.02,0,0,0,0,0,2.46,0,0,0
+Umatilla Reservation,21.1,20.89,18.11,0,64.26,64.04,64.04,63.83,55.64,55.64,55.64,55.64,95.12,95.12,95.12,0
+Battle Mountain Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Colusa Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Cortina Indian Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fort Peck Indian Reservation,76.53,74.59,50,0,76.53,74.59,50,0,41.38,41.38,41.38,38.56,99.98,99.98,20.58,0
+Fort Bidwell Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Likely Rancheria,0,0,0,0,0,0,0,0,,,,,0,0,0,0
+Lookout Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+XL Ranch Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prairie Island Indian Community,0,0,0,0,5.85,5.85,5.85,5.85,0,0,0,0,100,100,100,0
+Pokagon Reservation,100,100,0,0,100,100,100,100,0,0,0,0,100,100,100,0
+Havasupai Reservation,0,0,0,0,0,0,0,0,0,0,0,0,55.29,0,0,0
+Hopi Reservation,78.25,78.25,0,0,78.25,78.25,0,0,0,0,0,0,78.14,10.83,0,0
+Hualapai Indian Reservation,76.34,76.28,0,0,76.34,76.28,0,0,0,0,0,0,0.59,0.59,0,0
+Brighton Reservation,89.09,89.09,56.1,0,89.09,89.09,56.1,0,14.63,14.63,14.63,14.63,0,0,0,0
+Allegany Reservation,81.34,81.34,2.75,2.15,97.41,97.41,97.16,96.8,0,0,0,0,0,0,0,0
+Winnemucca Indian Colony,0,0,0,0,96.23,96.23,0,0,0,0,0,0,100,100,0,0
+Snoqualmie Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muckleshoot Reservation,97.45,97.45,95.55,86.98,97.81,97.81,97.4,96.36,18.02,18.02,18.02,12.77,0,0,0,0
+Puyallup Reservation,76.9,76.9,61.15,46.98,99.96,99.96,99.96,99.96,18.91,18.91,18.08,12.55,0,0,0,0
+Stillaguamish Reservation,100,100,0,0,100,100,0,0,100,100,100,100,0,0,0,0
+Tulalip Reservation,90.8,89.94,75.18,0,90.8,89.94,75.26,3.41,7.38,7.38,7.38,7.38,0,0,0,0
+Fort Hall Reservation,12.25,10.41,7.17,1.95,14.45,13.17,9.93,7.29,2.94,2.94,2.94,2.94,77.89,76.9,71.31,0
+Oil Springs Reservation,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Lac du Flambeau Reservation,94.95,94.95,1.01,0,95.35,95.35,1.01,0.23,0,0,0,0,95.15,95.15,21.91,0
+Campo Indian Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Hopland Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,97.2,97.2,11.2,0
+Las Vegas Indian Colony,76.1,76.1,47.81,0,84.46,84.46,56.18,56.18,0,0,0,0,53.39,53.39,53.39,0
+Moapa River Indian Reservation,48.74,48.74,48.74,0,48.74,48.74,48.74,0,0.63,0.63,0.63,0.63,0,0,0,0
+Bay Mills Reservation,97.46,97.46,0,0,97.46,97.46,97.36,97.36,0,0,0,0,0,0,0,0
+Osage Reservation,47.85,45.85,35.67,14.16,69.9,67.9,58.66,40.81,8.67,8.67,8.36,8.36,77.86,75.31,62.23,0
+Alturas Indian Rancheria,0,0,0,0,,,,,,,,,0,0,0,0
+Cedarville Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Auburn Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Yomba Reservation,0,0,0,0,0,0,0,0,0,0,0,0,80.95,0,0,0
+Sault Ste. Marie Reservation,0,0,0,0,98.24,98.24,98.24,98.24,0,0,0,0,1.76,1.76,0,0
+Burns Paiute Indian Colony,100,100,60.68,0,100,100,60.68,0,0,0,0,0,0,0,0,0
+Lummi Reservation,86.4,86.34,24.33,3.59,32.01,32.01,32.01,32.01,11.49,11.49,11.49,11.49,88.41,88.41,88.41,0
+Nooksack Reservation,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Tesuque Pueblo,44.41,44.41,41.34,9.54,40.79,40.79,40.79,40.79,0,0,0,0,100,100,14.36,0
+Narragansett Reservation,0,0,0,0,33.33,33.33,33.33,33.33,33.33,33.33,33.33,33.33,0,0,0,0
+Immokalee Reservation,66.58,66.58,43.08,11.23,6.53,6.53,6.53,6.53,15.14,15.14,15.14,15.14,0,0,0,0
+Red Lake Reservation,78.14,78.14,78.14,0,0,0,0,0,99.82,99.82,99.82,99.82,0,0,0,0
+Paskenta Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Standing Rock Reservation,13.62,13.62,13.62,0,0,0,0,0,90.94,90.94,90.94,84.69,0,0,0,0
+Northwestern Shoshone Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Sycuan Reservation,0,0,0,0,54.07,54.07,54.07,54.07,0,0,0,0,100,100,100,100
+Colville Reservation,22.5,20.67,0,0,20.15,20.15,20.15,20.15,5.57,5.57,5.57,5.57,77.39,77.39,73.01,72.99
+Fort McDowell Yavapai Nation Reservation,2.2,2.2,0,0,6.87,6.87,6.87,6.87,0,0,0,0,93.35,93.35,93.35,0
+Gila River Indian Reservation,59.72,59.72,0,0,0.01,0.01,0.01,0.01,0,0,0,0,76.26,76.26,13.02,0
+Salt River Reservation,47.07,47.07,0,0,1.83,1.83,1.83,1.83,61.19,61.19,61.19,0,61.53,61.53,0.36,0.36
+Coquille Reservation,27.81,27.81,0,0,97.04,97.04,97.04,97.04,69.23,69.23,69.23,69.23,0,0,0,0
+Cahuilla Reservation,78.43,78.43,0,0,0,0,0,0,0,0,0,0,9.15,9.15,9.15,9.15
+Colorado River Indian Reservation,68.17,64.68,0,0,74.05,74.05,74.05,74.05,0,0,0,0,0.44,0.17,0,0
+Morongo Reservation,42.74,2.42,0,0,3.77,3.77,3.77,3.77,69.26,69.26,69.26,69.26,88.63,88.63,88.63,88.63
+Pechanga Reservation,72.26,72.26,0,0,33.03,33.03,33.03,33.03,3.28,3.28,3.28,3.28,100,100,100,100
+Annette Island Reserve,93.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Turtle Mountain Reservation,14.77,14.77,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Poarch Creek Reservation,99.41,99.41,0,0,34.91,34.91,34.91,34.91,0,0,0,0,0,0,0,0
+Agua Caliente Indian Reservation,65.17,41.82,0,0,99.86,99.86,99.86,99.86,15.38,15.38,15.38,15.38,8.4,6.85,6.83,0.51
+Yankton Reservation,81.82,81.74,17.79,17.74,0,0,0,0,8.42,8.42,8.42,8.42,0,0,0,0
+Ely Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Siletz Reservation,35.96,35.96,0,0,95.03,95.03,95.03,94.74,0,0,0,0,0,0,0,0
+Fort Apache Reservation,78.44,78.01,0,0,0.13,0.13,0.13,0.13,0,0,0,0,4.28,1.34,0,0
+Zuni Reservation,79.37,79.37,39.47,0,0,0,0,0,0,0,0,0,0.9,0.48,0.44,0
+Uintah and Ouray Reservation,66.45,56.65,56.65,0,1.11,1.11,1.11,1.11,35.55,35.55,35.55,35.55,95.01,0.05,0.05,0
+Pauma and Yuima Reservation,9.38,9.38,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Elk Valley Rancheria,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Resighini Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big Cypress Reservation,78.81,78.81,64.64,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yakama Nation Reservation,61.69,61.69,0,0,51.3,51.3,51.3,51.3,0,0,0,0,88.82,88.82,79.48,0.37
+Lovelock Indian Colony,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Houlton Maliseet Reservation,100,100,100,0,100,100,100,100,98.1,98.1,98.1,98.1,0,0,0,0
+Penobscot Reservation,99.02,99.02,35.25,0,99.67,99.67,99.67,99.67,0,0,0,0,3.11,0,0,0
+Reno-Sparks Indian Colony,1.74,1.74,0,0,40.42,40.42,40.42,40.42,38.07,38.07,38.07,38.07,86.59,84.93,45.47,45.47
+Red Cliff Reservation,83.04,83.04,47.65,0,92.55,92.55,92.55,92.55,0,0,0,0,0,0,0,0
+Elko Colony,100,100,0,0,0,0,0,0,0,0,0,0,100,30.83,30.83,0
+Round Valley Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fort McDermitt Indian Reservation,95.93,95.93,23.55,0,0,0,0,0,0,0,0,0,0.29,0,0,0
+Dresslerville Colony,99.69,0,0,0,99.69,99.69,99.69,99.69,0,0,0,0,0,0,0,0
+Tuscarora Nation Reservation,11.28,0,0,0,90.19,90.19,90.19,90.19,0,0,0,0,0,0,0,0
+Soboba Reservation,93.15,11.68,0,0,0.62,0.62,0.62,0.62,92.68,92.68,92.68,92.68,94.55,94.55,94.55,94.55
+Torres-Martinez Reservation,63.7,63.7,0,0,1.05,1.05,1.05,1.05,0,0,0,0,0,0,0,0
+Grindstone Indian Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blackfeet Indian Reservation,66.08,65.53,43.86,0,1.89,1.89,1.89,1.89,14.33,14.33,14.33,3.32,11.75,10.19,0,0
+Sandia Pueblo,70.03,69.42,36.83,16.75,86.77,86.77,86.77,86.77,0,0,0,0,100,100,100,0
+Kickapoo (KS) Reservation,65.27,62.37,2.35,0,43.54,43.54,43.54,0,39.11,39.11,39.11,27.89,83.11,34.71,5.93,0
+Sac and Fox/Meskwaki Settlement,87.78,78.03,50.16,8.04,45.02,45.02,45.02,43.09,0,0,0,0,2.89,2.89,2.89,0
+Big Sandy Rancheria,100,100,100,0,0,0,0,0,0,0,0,0,100,100,100,0
+Eastern Cherokee Reservation,77.3,77.3,0,0,2.36,2.36,2.36,1.17,0,0,0,0,0.41,0,0,0
+Oneida (WI) Reservation,89.31,89.31,87.3,34.22,92.64,92.64,92.64,92.64,4.87,4.87,4.87,4.87,3.13,3.13,0,0
+Chehalis Reservation,1.18,1.18,0,0,90.71,90.71,90.71,90.71,0,0,0,0,0,0,0,0
+Quinault Reservation,22.04,22.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Squaxin Island Reservation,88.81,86.64,80.87,0,0,0,0,0,92.06,92.06,92.06,92.06,0,0,0,0
+Twenty-Nine Palms Reservation,12.5,12.5,0,0,12.5,12.5,12.5,12.5,0,0,0,0,0,0,0,0
+St. Croix Reservation,72.29,50.32,10.03,0,0,0,0,0,70.86,70.86,70.86,29.46,99.04,99.04,13.22,13.22
+Campbell Ranch,0,0,0,0,0,0,0,0,0,0,0,0,94.32,0,0,0
+Goshute Reservation,63.35,63.35,0,0,0,0,0,0,40.27,40.27,40.27,40.27,63.35,63.35,0,0
+Cow Creek Reservation,94.64,93.75,12.5,0,83.93,83.93,83.93,83.93,98.21,98.21,98.21,98.21,0,0,0,0
+Viejas Reservation,37.34,37.34,0,0,0,0,0,0,0,0,0,0,100,100,0.4,0.4
+Flandreau Reservation,0,0,0,0,53.83,53.83,53.83,53.83,53.83,53.83,53.83,53.83,33.73,3.83,3.83,0
+Ontonagon Reservation,0,0,0,0,,,,,,,,,0,0,0,0
+Sauk-Suiattle Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swinomish Reservation,68.26,34.17,0,0,95.63,95.63,95.63,89.6,0.15,0.15,0.15,0.15,66.82,66.82,66.82,0
+Big Bend Rancheria,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Montgomery Creek Rancheria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jackson Rancheria,25,25,25,0,100,100,100,0,100,100,100,75,75,75,75,0
+Northern Cheyenne Indian Reservation,94.64,91.85,65.63,2.66,0,0,0,0,3.36,3.36,3.36,3.36,76.46,0,0,0
+Cattaraugus Reservation,14.99,14.99,0,0,28.69,28.69,28.69,28.69,0,0,0,0,75.94,75.94,0,0
+Tonawanda Reservation,3.09,0,0,0,12.74,12.74,12.74,12.74,0,0,0,0,0,0,0,0
+Tule River Reservation,26.36,26.36,26.36,0,0,0,0,0,0,0,0,0,69.1,69.1,69.1,0
+Wind River Reservation,49.12,44.53,3.61,0,49.92,49.92,49.92,49.92,4.43,4.43,4.43,4.43,97.8,81.12,63.98,2.16
+Winnebago Reservation,38.62,37.74,28.58,5.36,8.67,8.67,8.67,8.67,0,0,0,0,99.15,1.16,0,0
+Huron Potawatomi Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Jamestown S'Klallam Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ho-Chunk Nation Reservation,83.64,83.64,23.6,0,0.23,0.23,0.23,0.23,30.02,30.02,30.02,30.02,36.21,21.5,0,0
+Ramona Village,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Upper Skagit Reservation,99.15,99.15,0,0,0,0,0,0,97.46,97.46,97.46,97.46,0,0,0,0
+Acoma Pueblo,42.16,41.51,33.98,0,0,0,0,0,0,0,0,0,3.85,3.85,0,0
+Jena Band of Choctaw Reservation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Traverse Reservation,36.39,36,18.1,0,0.26,0.26,0.26,0.26,73.61,73.61,73.61,73.61,8.03,1.28,0,0
+South Fork Reservation,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Wells Colony,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa Ynez Reservation,7.72,0,0,0,98.66,98.66,98.66,98.66,0,0,0,0,0,0,0,0
+Pyramid Lake Paiute Reservation,2.51,2.51,0,0,38.25,38.25,38.25,38.25,0,0,0,0,81.9,0,0,0
+Yerington Colony,100,100,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Skokomish Reservation,30.12,1.1,0,0,98.78,98.78,98.78,0,76.83,76.83,76.83,76.83,0,0,0,0
+Lower Elwha Reservation,84.35,84.35,84.08,0,0,0,0,0,0,0,0,0,0,0,0,0
+Makah Indian Reservation,34.91,34.91,1.07,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quileute Reservation,6.83,6.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fallon Paiute-Shoshone Colony,3.85,3.85,0,0,100,100,100,100,3.85,3.85,3.85,3.85,100,0,0,0
+Grand Portage Reservation,83.94,83.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hannahville Indian Community,1.54,1.54,0,0,85.85,85.85,85.85,85.85,0,0,0,0,0,0,0,0
+Mohegan Off-Reservation Trust Land,87.21,87.21,0,0,93.11,93.11,93.11,93.11,0,0,0,0,0,0,0,0
+Fallon Paiute-Shoshone (Reservation) Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manzanita Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Isabella Off-Reservation Trust Land,17.02,17.02,0,0,95.74,95.74,95.74,95.74,0,0,0,0,57.45,57.45,17.02,0
+Pojoaque Off-Reservation Trust Land,87.73,87.73,82.27,0,82.27,82.27,82.27,82.27,82.27,82.27,82.27,0,100,100,87.73,0
+Rosebud Off-Reservation Trust Land,83.64,81.53,3.25,0,25.51,25.51,25.51,0,44.77,44.77,44.77,44.06,0,0,0,0
+Spokane Off-Reservation Trust Land,85.71,85.71,0,0,85.71,85.71,85.71,85.71,0,0,0,0,100,100,100,0
+"Coos, Lower Umpqua, and Siuslaw Off-Reservation Trust Land",97.96,8.16,0,0,100,100,100,100,100,100,100,100,0,0,0,0
+Pascua Pueblo Yaqui Off-Reservation Trust Land,57.87,57.87,34.49,0,97.22,97.22,97.22,97.22,0,0,0,0,100,100,100,0
+Berry Creek Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,62.91,62.91,0,0
+Enterprise Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shakopee Mdewakanton Sioux Off-Reservation Trust Land,75.21,75.21,61.29,21.05,54.33,54.33,54.33,54.33,46.69,46.69,46.69,46.69,67.57,0,0,0
+L'Anse Off-Reservation Trust Land,16.06,16.06,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Mississippi Choctaw Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,45,45,0,0
+Ute Mountain Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,87.5,87.5,0,0
+Shoalwater Bay Off-Reservation Trust Land,0,0,0,0,85.71,85.71,85.71,85.71,0,0,0,0,0,0,0,0
+Sherwood Valley Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+San Pasqual Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Mooretown Off-Reservation Trust Land,0,0,0,0,92.98,92.98,92.98,92.98,0,0,0,0,68.42,68.42,0,0
+Little Traverse Bay Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,100,100,100,0
+Miccosukee Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,9.09,9.09,9.09,9.09
+Iowa (KS-NE) Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sac and Fox Nation Off-Reservation Trust Land,100,100,0,0,0,0,0,0,100,100,100,0,100,100,0,0
+Yavapai-Apache Nation Off-Reservation Trust Land,85.13,85.13,85.13,0,85.13,85.13,85.13,85.13,0,0,0,0,85.13,85.13,85.13,0
+Ysleta del Sur Off-Reservation Trust Land,0,0,0,0,98.35,98.35,98.35,98.35,0,0,0,0,95.66,95.66,95.66,0
+Robinson Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Zia Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Warm Springs Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+North Fork Off-Reservation Trust Land,100,100,20.37,0,0,0,0,0,0,0,0,0,100,100,100,0
+Picayune Off-Reservation Trust Land,88.24,88.24,17.65,0,0,0,0,0,0,0,0,0,100,100,100,0
+Timbi-Sha Shoshone Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue Lake Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Benton Paiute Off-Reservation Trust Land,0,0,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Bridgeport Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coconut Creek Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seminole (FL) Trust Land,100,100,100,0,0,0,0,0,72.73,72.73,72.73,72.73,0,0,0,0
+Nambe Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+San Ildefonso Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Santa Clara Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tohono O'odham Nation Off-Reservation Trust Land,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grand Traverse Off-Reservation Trust Land,9.48,9.48,0,0,90.85,90.85,90.85,90.85,0,0,0,0,88.4,88.4,84.8,0
+Little River Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Ponca (NE) Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grand Ronde Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Port Gamble Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quartz Valley Off-Reservation Trust Land,84.29,84.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tonto Apache Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dry Creek Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stewarts Point Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Match-e-be-nash-she-wish Band of Pottawatomi Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fort Mojave Off-Reservation Trust Land,97.76,97.76,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smith River Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Pit River Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chicken Ranch Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big Pine Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laguna Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,66.67,66.67,0,0
+Navajo Nation Off-Reservation Trust Land,39.31,33.71,14.33,0,0.21,0.21,0.21,0.21,0,0,0,0,35.85,21.31,9.78,0.95
+Summit Lake Off-Reservation Trust Land,0,0,0,0,,,,,,,,,0,0,0,0
+Forest County Potawatomi Off-Reservation Trust Land,98.25,98.25,52.63,0,54.39,54.39,54.39,54.39,0,0,0,0,0,0,0,0
+Sokaogon Chippewa Off-Reservation Trust Land,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fort Belknap Off-Reservation Trust Land,0,0,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Leech Lake Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White Earth Off-Reservation Trust Land,0,0,0,0,0,0,0,0,100,100,100,100,0,0,0,0
+Wampanoag-Aquinnah Trust Land,0,0,0,0,97.33,97.33,97.33,97.33,0,0,0,0,0,0,0,0
+Cheyenne River Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hoh Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kootenai Off-Reservation Trust Land,12.5,12.5,0,0,12.5,12.5,12.5,0,12.5,12.5,12.5,12.5,100,100,100,0
+Celilo Village,87.34,87.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crow Off-Reservation Trust Land,75,75,67.86,0,0,0,0,0,0,0,0,0,100,100,100,0
+Menominee Off-Reservation Trust Land,100,100,0,0,6.1,6.1,6.1,6.1,0,0,0,0,92.28,92.28,78.46,0
+Karuk Off-Reservation Trust Land,3.7,3.7,0,0,51.16,51.16,51.16,51.16,60.88,60.88,60.88,4.17,70.83,70.83,0,0
+Trinidad Off-Reservation Trust Land,0,0,0,0,72.22,72.22,72.22,72.22,0,0,0,0,90.28,90.28,0,0
+Bois Forte Off-Reservation Trust Land,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fond du Lac Off-Reservation Trust Land,60,60,60,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stockbridge Munsee Off-Reservation Trust Land,90.74,90.74,0,0,0,0,0,0,0,0,0,0,90.74,90.74,90.74,0
+Kalispel Off-Reservation Trust Land,0,0,0,0,4.65,4.65,4.65,4.65,4.65,4.65,4.65,4.65,100,100,100,93.02
+Coushatta Off-Reservation Trust Land,88.06,88.06,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Susanville Off-Reservation Trust Land,53.78,53.78,0,0,53.78,53.78,0,0,71.43,71.43,71.43,0,99.58,99.58,64.29,0
+Mashantucket Pequot Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+San Manuel Off-Reservation Trust Land,29.17,29.17,29.17,0,100,100,100,100,0,0,0,0,100,100,100,100
+Barona Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Lower Brule Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Jicarilla Apache Nation Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,91.67,0,0,0
+Shingle Springs Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alabama-Coushatta Off-Reservation Trust Land,88.06,88.06,0,0,88.06,88.06,0,0,0,0,0,0,0,0,0,0
+Rocky Boy's Off-Reservation Trust Land,0,0,0,0,0,0,0,0,97.71,97.71,97.71,97.71,65.25,65.25,0,0
+Maricopa (Ak Chin) Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Tunica-Biloxi Off-Reservation Trust Land,0,0,0,0,69.23,69.23,0,0,0,0,0,0,0,0,0,0
+Rincon Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100
+Lac Courte Oreilles Off-Reservation Trust Land,100,100,0,0,100,100,55.56,55.56,44.44,44.44,44.44,0,44.44,44.44,0,0
+Upper Sioux Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Taos Off-Reservation Trust Land,19.3,15.79,15.79,0,31.58,31.58,31.58,0,54.39,54.39,54.39,54.39,100,100,0,0
+Kickapoo (TX) Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mille Lacs Off-Reservation Trust Land,58.11,58.11,39.86,0,58.11,58.11,39.86,0,6.08,6.08,0,0,0,0,0,0
+Guidiville Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minnesota Chippewa Trust Land,25,25,0,0,25,25,0,0,100,100,100,100,0,0,0,0
+Umatilla Off-Reservation Trust Land,0,0,0,0,85.29,85.29,85.29,85.29,0,0,0,0,100,100,0,0
+Battle Mountain Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fort Peck Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fort Bidwell Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prairie Island Off-Reservation Trust Land,0,0,0,0,0.48,0.48,0.48,0.48,0,0,0,0,100,100,100,0
+Pokagon Off-Reservation Trust Land,63.13,63.13,0,0,88.38,88.38,88.38,88.38,72.22,72.22,72.22,72.22,25.25,25.25,25.25,0
+Hopi Off-Reservation Trust Land,1.25,1.25,0,0,1.25,1.25,0,0,0,0,0,0,0,0,0,0
+Hualapai Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Muckleshoot Off-Reservation Trust Land,74.29,74.29,11.43,0,100,100,100,88.57,0,0,0,0,0,0,0,0
+Puyallup Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Stillaguamish Off-Reservation Trust Land,66.67,19.05,0,0,66.67,19.05,0,0,19.05,19.05,19.05,19.05,0,0,0,0
+Tulalip Off-Reservation Trust Land,100,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Fort Hall Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bay Mills Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cedarville Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Auburn Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Sault Ste. Marie Off-Reservation Trust Land,22.11,22.11,4.18,0,96.31,96.31,96.31,92.13,0,0,0,0,0,0,0,0
+Burns Paiute Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,66.67,66.67,0,0
+Nooksack Off-Reservation Trust Land,67.31,41.61,0,0,71.97,71.58,55,55,0,0,0,0,60.14,60.14,60.14,0
+Tesuque Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sycuan Off-Reservation Trust Land,1.27,1.27,0,0,91.37,91.37,77.92,77.92,0,0,0,0,100,100,98.73,98.73
+Colville Off-Reservation Trust Land,100,100,0,0,100,100,0,0,0,0,0,0,100,100,0,0
+Morongo Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Turtle Mountain Off-Reservation Trust Land,72.92,72.92,0.04,0,73.07,73.07,0.18,0.15,87.71,87.71,87.71,87.71,1.57,1.57,0,0
+Poarch Creek Off-Reservation Trust Land,100,100,0,0,100,100,73.95,73.95,0,0,0,0,0,0,0,0
+Agua Caliente Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Siletz Off-Reservation Trust Land,65.5,65.5,0,0,98.83,98.83,61.4,33.92,0,0,0,0,1.17,1.17,1.17,0
+Zuni Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uintah and Ouray Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Washoe Ranches Trust Land,88.12,88.12,0,0,27.56,27.56,27.56,27.56,0,0,0,0,68.63,68.63,6.5,6.5
+Elk Valley Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Passamaquoddy Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yakama Nation Off-Reservation Trust Land,37.8,37.8,0,0,0,0,0,0,0,0,0,0,13.41,13.41,13.41,13.41
+Houlton Maliseet Off-Reservation Trust Land,100,100,44.83,0,6.9,6.9,6.9,6.9,6.9,6.9,6.9,6.9,0,0,0,0
+Penobscot Off-Reservation Trust Land,36.36,36.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reno-Sparks Off-Reservation Trust Land,0,0,0,0,100,100,100,100,0,0,0,0,100,100,0,0
+Red Cliff Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Round Valley Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soboba Off-Reservation Trust Land,0,0,0,0,95.77,95.77,95.77,95.77,95.77,95.77,95.77,95.77,95.77,95.77,95.77,95.77
+Blackfeet Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sac and Fox/Meskwaki Off-Reservation Trust Land,89.47,89.47,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big Sandy Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oneida (WI) Off-Reservation Trust Land,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chehalis Off-Reservation Trust Land,87.5,85.37,85.06,66.16,97.56,97.56,97.56,97.56,0,0,0,0,0,0,0,0
+Squaxin Island Off-Reservation Trust Land,9.66,9.66,0,0,7.39,7.39,7.39,7.39,93.18,93.18,93.18,93.18,0,0,0,0
+Twenty-Nine Palms Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Croix Off-Reservation Trust Land,69.66,69.66,0,0,0,0,0,0,100,100,100,2.76,85.52,85.52,82.76,82.76
+Cow Creek Off-Reservation Trust Land,44.07,44.07,0,0,52.54,52.54,52.54,52.54,57.63,57.63,57.63,57.63,0,0,0,0
+Aroostook Band of Micmac Trust Land,84.26,84.26,0,0,100,100,100,100,0,0,0,0,18.78,18.78,18.78,0
+Viejas Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swinomish Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Northern Cheyenne Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0
+Tule River Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Wind River Off-Reservation Trust Land,0,0,0,0,0,0,0,0,44.44,44.44,44.44,44.44,0,0,0,0
+Winnebago Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Huron Potawatomi Off-Reservation Trust Land,0,0,0,,100,100,100,100,0,0,0,0,0,0,0,0
+Jamestown S'Klallam Off-Reservation Trust Land,31.58,31.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ho-Chunk Nation Off-Reservation Trust Land,77.11,54.56,3.65,1.82,2.65,2.65,2.65,2.65,8.13,8.13,7.96,7.96,33.5,26.37,22.72,0
+Upper Skagit Off-Reservation Trust Land,16.98,16.98,0,0,15.09,15.09,15.09,0,0,0,0,0,0,0,0,0
+Acoma Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lake Traverse Off-Reservation Trust Land,100,100,100,0,0,0,0,0,0,0,0,0,100,100,0,0
+South Fork Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,81.82,0,0,0
+Skokomish Off-Reservation Trust Land,0,0,0,0,6.25,6.25,6.25,0,0,0,0,0,0,0,0,0
+Lower Elwha Off-Reservation Trust Land,63.1,62.7,45.16,0,0.81,0.81,0.81,0.81,0,0,0,0,0,0,0,0
+Fallon Paiute-Shoshone (Colony) Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grand Portage Off-Reservation Trust Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hannahville Off-Reservation Trust Land,0,0,0,0,92.73,92.73,92.73,92.73,0,0,0,0,0,0,0,0
+Mashpee Wampanoag Trust Land,0,0,0,0,100,100,100,100,100,100,100,100,0,0,0,0
+Princess Kahanu Estates Hawaiian Home Land,100,68.45,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Kakaina-Kumuhau Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Kalaeloa Hawaiian Home Land,2.17,0,0,0,50,50,50,50,0,0,0,0,0,0,0,0
+Kalawahine Hawaiian Home Land,92.42,90.91,0,0,98.79,98.79,98.79,98.79,90.91,90.91,90.91,90.91,0,0,0,0
+Kawaihae Hawaiian Home Land,91.89,0,0,0,90.77,90.77,90.77,90.77,0,0,0,0,0,0,0,0
+Kealakehe Hawaiian Home Land,99.36,99.23,0,0,99.49,99.49,99.49,99.49,0,0,0,0,0,0,0,0
+Keaukaha Hawaiian Home Land,93.01,1.96,0,0,99.75,99.75,99.75,99.75,2.94,2.94,0,0,0,0,0,0
+Keoniki Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+East Kapolei Hawaiian Home Land,0,0,0,0,67.72,67.72,67.72,67.72,67.72,67.72,67.72,0,0,0,0,0
+Haiku Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honokowai Hawaiian Home Land,0,0,0,0,4.76,4.76,4.76,4.76,1.19,1.19,1.19,1.19,0,0,0,0
+Paukukalo Hawaiian Home Land,100,0,0,0,100,100,100,100,13.1,13.1,0,0,0,0,0,0
+Pulehunui Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+South Maui Hawaiian Home Land,16.67,0,0,0,66.67,66.67,66.67,66.67,0,0,0,0,0,0,0,0
+Waiehu Hawaiian Home Land,88.25,78.85,0,0,100,100,100,100,95.89,95.89,88.55,6.68,0,0,0,0
+Leialii Hawaiian Home Land,86.57,0,0,0,99.14,99.14,99.14,99.14,95.43,95.43,95.43,0,0,0,0,0
+Makaha Valley Hawaiian Home Land,38.46,0,0,0,69.23,69.23,69.23,69.23,0,0,0,0,0,0,0,0
+Maluohai Hawaiian Home Land,100,100,0,0,100,100,100,100,17.25,17.25,0,0,0,0,0,0
+Maili Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Pearl City Hawaiian Home Land,97.12,0,0,0,100,100,100,100,2.88,2.88,2.88,2.88,0,0,0,0
+Piihonua Hawaiian Home Land,3.16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ponohawaii Hawaiian Home Land,61.9,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Kanehili Hawaiian Home Land,0,0,0,0,100,100,100,100,100,100,100,0,100,0,0,0
+Anahola (Residential) Hawaiian Home Land,78.37,21.92,0,0,83.32,83.32,83.32,83.32,1.22,1.22,0,0,0,0,0,0
+Hanapepe Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Kapaa Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Kekaha Hawaiian Home Land,89.76,47.99,0,0,89.76,89.76,89.76,89.76,41.16,41.16,37.95,0,0,0,0,0
+Kaupea Hawaiian Home Land,74.26,0,0,0,100,100,100,100,96.96,96.96,96.96,12.8,0,0,0,0
+Keahuolu Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Waiahole Hawaiian Home Land,0,0,0,0,50,50,50,50,38.24,38.24,38.24,38.24,0,0,0,0
+Waiku-Hana Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Waianae Kai Hawaiian Home Land,100,77.03,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Upolu Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Panaewa (Agricultural) Hawaiian Home Land,56.51,5.5,0,0,99.33,99.33,99.33,99.33,0,0,0,0,0,0,0,0
+Pauahi Hawaiian Home Land,66.67,0,0,0,100,100,100,100,66.67,66.67,66.67,66.67,0,0,0,0
+Panaewa (Residential) Hawaiian Home Land,91.76,49.05,0,0,100,100,100,100,25.79,25.79,0,0,0,0,0,0
+Puukapu Hawaiian Home Land,87.98,67.92,0,0,74.44,74.44,74.44,74.44,0,0,0,0,0,0,0,0
+Waiohinu Hawaiian Home Land,0,0,0,0,31.25,31.25,31.25,31.25,0,0,0,0,62.5,62.5,62.5,0
+Kalaupapa Hawaiian Home Land,0,0,0,0,6.74,6.74,6.74,6.74,0,0,0,0,0,0,0,0
+Lalamilo Hawaiian Home Land,100,40.58,0,0,43.48,43.48,43.48,43.48,40.58,40.58,0,0,0,0,0,0
+Keokea (Agricultural) Hawaiian Home Land,9.76,0,0,0,12.2,12.2,12.2,12.2,0,0,0,0,0,0,0,0
+Makuu Hawaiian Home Land,26.92,0,0,0,60,60,60,60,0,0,0,0,3.85,3.85,3.85,0
+Nienie Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kaohe-Olaa Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waiakea Hawaiian Home Land,35.82,4.48,0,0,64.18,64.18,64.18,64.18,32.84,32.84,32.84,32.84,0,0,0,0
+Wailau Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waimanu Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hoolehua-Palaau Hawaiian Home Land,64,52.74,0,0,17.27,17.27,17.27,17.27,0,0,0,0,0,0,0,0
+Kahikinui Hawaiian Home Land,50,50,0,0,0,0,0,0,50,50,50,0,0,0,0,0
+Kalamaula Hawaiian Home Land,79.16,52.93,0,0,11.01,11.01,11.01,11.01,66.28,66.28,2.81,0,0,0,0,0
+Kamiloloa-Makakupaia Hawaiian Home Land,100,0,0,0,3.23,3.23,3.23,3.23,17.2,17.2,0,0,0,0,0,0
+Honokaia Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honomu Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,40.43,40.43,40.43,0
+Homuula-Upper Piihonua Hawaiian Home Land,3.16,0,0,0,5.26,5.26,5.26,5.26,0,0,0,0,0,0,0,0
+Kolaoa Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Kamaoa-Puueo Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,0
+Kamoku-Kapulena Hawaiian Home Land,98.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kaumana Hawaiian Home Land,95.69,76.72,0,0,94.83,94.83,94.83,94.83,0,0,0,0,0,0,0,0
+Kapaakea Hawaiian Home Land,96.13,0,0,0,5.16,5.16,5.16,5.16,0,0,0,0,0,0,0,0
+Keanae-Wailua Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waiohuli (Residential) Hawaiian Home Land,100,100,0,0,100,100,100,100,56.89,56.89,0,0,0,0,0,0
+Moloaa Hawaiian Home Land,100,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Wailua Hawaiian Home Land,0,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Waimea Hawaiian Home Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kewalo Hawaiian Home Land,100,13.97,0,0,100,100,100,100,100,100,100,100,0,0,0,0
+Ualapue Hawaiian Home Land,0,0,0,0,66.67,66.67,66.67,66.67,0,0,0,0,0,0,0,0
+Lanai City Hawaiian Home Land,97.83,97.83,0,0,2.17,2.17,2.17,2.17,0,0,0,0,0,0,0,0
+Lualualei Hawaiian Home Land,6.58,0,0,0,96.05,96.05,96.05,96.05,0,0,0,0,0,0,0,0
+Nanakuli Hawaiian Home Land,98.13,85.51,0,0,100,100,100,100,7.04,7.04,7.04,7.04,0,0,0,0
+Honolulu Makai Hawaiian Home Land,100,11.11,0,0,100,100,100,100,88.89,88.89,88.89,88.89,0,0,0,0
+Waianae Hawaiian Home Land,58.4,20.98,15.18,0,99.17,99.17,99.17,99.17,0,0,0,0,0,0,0,0
+Waimanalo Hawaiian Home Land,99.19,46.79,0,0,100,100,100,100,82.95,82.95,82.95,82.95,0,0,0,0
+Anahola (Agricultural) Hawaiian Home Land,92.63,0,0,0,92.28,92.28,92.28,92.28,0,0,0,0,0,0,0,0
+Papakolea Hawaiian Home Land,100,0,0,0,100,100,100,100,99.84,99.84,99.84,99.84,0,0,0,0
+Kapolei Hawaiian Home Land,0,0,0,0,33.33,33.33,33.33,33.33,67.72,67.72,67.72,0,0,0,0,0
+King Salmon ANVSA,96.99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Petersburg ANVSA,100,0,0,0,99.95,99.95,99.95,99.95,0,0,0,0,0,0,0,0
+Atka ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nikolski ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. George ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wrangell ANVSA,100,0,0,0,100,100,100,100,0,0,0,0,0,0,0,0
+Akutan ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Alatna ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allakaket ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angoon ANVSA,0,0,0,0,99.09,99.09,99.09,99.09,0,0,0,0,0,0,0,0
+Chilkat ANVSA,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nome ANVSA,90.67,90.67,89.22,0,94.61,94.61,0,0,0,0,0,0,0,0,0,0
+Akhiok ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karluk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Larsen Bay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hughes ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Koyuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mary's Igloo ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+St. Michael ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Savoonga ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Belkofski ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+False Pass ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+King Cove ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nelson Lagoon ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0
+Sand Point ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lesnoi ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skagway ANVSA,97.91,97.91,97.91,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ketchikan ANVSA,97.43,97.43,0,0,99.98,99.98,99.98,99.98,97.53,97.53,97.53,97.53,0,0,0,0
+Hoonah ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tatitlek ANVSA,72.22,72.22,72.22,0,0,0,0,0,0,0,0,0,0,0,0,0
+Old Harbor ANVSA,78.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ouzinkie ANVSA,93.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Port Lions ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Huslia ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kaltag ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chickaloon ANVSA,96.64,96.64,82.46,0,69.77,69.77,69.77,69.77,35.45,35.45,35.45,35.45,0,0,0,0
+Knik ANVSA,95.18,95.18,82.69,0,65.11,65.11,65.11,65.11,31.27,31.27,31.27,31.27,0,0,0,0
+Marshall ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mountain Village ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White Mountain ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tazlina ANVSA,73.91,73.91,67.22,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kodiak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Egegik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Igiugig ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Iliamna ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,97.39,0,0,0
+Ivanof Bay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kokhanok ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,86.59,0,0,0
+Levelock ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Newhalen ANVSA,0,0,,0,0,0,0,0,0,0,0,0,100,0,0,0
+Nondalton ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Pedro Bay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,95.45,0,0,0
+Perryville ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pilot Point ANVSA,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0
+Port Heiden ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ugashik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tuntutuliak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Tununak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Kasigluk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Kipnuk ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Kongiganak ANVSA,0,0,0,0,0,0,0,0,100,100,0,0,100,0,0,0
+Tuluksak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Alakanuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algaaciq ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Andreafsky ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bill Moore's ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chevak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Akiak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Hydaburg ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kasaan ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Klawock ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Naknek ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+South Naknek ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Douglas ANVSA,99.28,99.28,49.81,0,99.66,99.66,99.66,99.66,0,0,0,0,1.26,1.26,0,0
+Russian Mission ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scammon Bay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ekwok ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+Manokotak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+New Koliganek ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+New Stuyahok ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Portage Creek ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Togiak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Twin Hills ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Crooked Creek ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Eek ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Georgetown ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Goodnews Bay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kalskag ANVSA,100,0,0,0,0,0,0,0,100,0,0,0,,,,
+Eklutna ANVSA,71.43,71.43,0,0,0,0,0,0,7.14,7.14,7.14,7.14,,,,
+Dot Lake ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Eagle ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Healy Lake ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Northway ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Tanacross ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Nunam Iqua ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Ohogamiut ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Paimiut ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Pilot Station ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Pitkas Point ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chuathbaluk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Port Alsworth ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chenega ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chistochina ANVSA,93.59,93.59,93.59,0,0,0,0,0,0,0,0,0,,,,
+Chitina ANVSA,58.65,58.65,58.65,0,0,0,0,0,0,0,0,0,,,,
+Copper Center ANVSA,89.29,89.29,88.84,0,0,0,0,0,0,0,0,0,,,,
+Canyon Village ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Venetie ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Wales ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Grayling ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Holy Cross ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chignik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chignik Lagoon ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chignik Lake ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Tetlin ANVSA,96.97,0,0,0,0,0,0,0,0,0,0,0,,,,
+Ekuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Atqasuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Barrow ANVSA,0,0,0,0,100,0,0,0,100,100,0,0,,,,
+Kaktovik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Nuiqsut ANVSA,0,0,0,0,0,0,0,0,100,100,0,0,,,,
+Point Hope ANVSA,0,0,0,0,0,0,0,0,100,100,0,0,,,,
+Point Lay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Lake Minchumina ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chilkoot ANVSA,100,100,100,0,0,0,0,0,0,0,0,0,,,,
+Aniak ANVSA,100,0,0,0,0,0,0,0,100,0,0,0,,,,
+Atmautluak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Bethel ANVSA,100,100,0,0,99.91,99.91,0,0,0,0,0,0,,,,
+Cantwell ANVSA,89.23,89.23,36.92,0,0,0,0,0,0,0,0,0,,,,
+Kenaitze ANVSA,75.91,64.71,16.34,0,51.11,51.11,51.11,51.11,0,0,0,0,,,,
+Nanwalek ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Ninilchik ANVSA,79.05,71.92,12.12,0,33.9,33.9,33.9,33.9,0,0,0,0,,,,
+Port Graham ANVSA,99.47,99.47,93.62,0,0,0,0,0,0,0,0,0,,,,
+Salamatof ANVSA,57.76,57.76,1.76,0,46.73,46.73,46.73,46.73,0,0,0,0,,,,
+Seldovia ANVSA,82.81,0,0,0,0,0,0,0,0,0,0,0,,,,
+Tyonek ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chuloonawick ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Emmonak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Hamilton ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Hooper Bay ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kotlik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Wainwright ANVSA,0,0,0,0,0,0,0,0,78.78,78.78,0,0,,,,
+Yakutat ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Elim ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Ambler ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Buckland ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+St. Paul ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Unalaska ANVSA,7.66,0,0,0,99.98,0,0,0,0,0,0,0,,,,
+Kwethluk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kwigillingok ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Kwinhagak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Lime Village ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Lower Kalskag ANVSA,100,0,0,0,0,0,0,0,100,0,0,0,,,,
+Mekoryuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Napaimute ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Saxman ANVSA,100,100,0,0,100,100,100,100,100,100,100,100,,,,
+Aleknagik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Clarks Point ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Dillingham ANVSA,100,0,0,0,84.41,0,0,0,0,0,0,0,,,,
+Tanana ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Telida ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kobuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kotzebue ANVSA,100,100,0,0,99.94,99.94,0,0,0,0,0,0,,,,
+Noatak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Noorvik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Selawik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Eyak ANVSA,85.19,85.19,80,0,100,100,0,0,0,0,0,0,,,,
+Gakona ANVSA,98.35,98.35,93.39,0,0,0,0,0,0,0,0,0,,,,
+Gulkana ANVSA,68.57,68.57,68.57,0,0,0,0,0,0,0,0,0,,,,
+Mentasta Lake ANVSA,91.58,91.58,89.47,0,0,0,0,0,0,0,0,0,,,,
+Kake ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chefornak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Nulato ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Rampart ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Ruby ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Shageluk ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Stevens Village ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Takotna ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Minto ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Nenana ANVSA,86.98,0,0,0,0,0,0,0,0,0,0,0,,,,
+Nikolai ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Anaktuvuk Pass ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Koyukuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Deering ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kiana ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Kivalina ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Golovin ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Napakiak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Napaskiak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Shaktoolik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Shishmaref ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Solomon ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Stebbins ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Teller ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Unalakleet ANVSA,95.29,95.29,0,0,0,0,0,0,0,0,0,0,,,,
+Inalik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Anvik ANVSA,100,0,0,0,0,0,0,0,0,0,0,0,,,,
+Arctic Village ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Beaver ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Birch Creek ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chalkyitsik ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Circle ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Evansville ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Fort Yukon ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Galena ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Shungnak ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+McGrath ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Manley Hot Springs ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Akiachak ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Nightmute ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Nunapitchuk ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Newtok ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Craig ANVSA,77.42,0,0,0,0,0,0,0,0,0,0,0,,,,
+Oscarville ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Platinum ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Red Devil ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Sleetmute ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Stony River ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Toksook Bay ANVSA,100,100,0,0,0,0,0,0,0,0,0,0,,,,
+Brevig Mission ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Council ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Gambell ANVSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Sitka ANVSA,93.57,90.11,0,0,100,100,100,100,0,0,0,0,,,,
+Seminole OTSA,13.68,13.23,10.75,0,46.02,46.02,46.02,43.09,0,0,0,0,,,,
+Chickasaw OTSA,28.06,24.81,12.06,2.29,52.44,50.62,48.54,47.05,7.96,7.96,7.91,5.42,,,,
+Choctaw OTSA,23.37,19.77,9.24,2.91,46.34,43.09,35.74,32.99,13.39,12.95,11.91,11.84,,,,
+Pawnee OTSA,40.08,40.08,0,0,0,0,0,0,31.97,31.97,0,0,,,,
+Cherokee OTSA,34.68,32.93,24.02,11.11,56.87,56.87,55,50.77,30.66,30.57,30.46,30.25,,,,
+Kaw OTSA,14.38,14.38,10.25,5.36,3.75,3.75,3.75,3.75,6.83,6.83,6.83,6.83,,,,
+Ponca OTSA,0,0,0,0,22.04,22.04,22.04,22.04,0,0,0,0,,,,
+Tonkawa OTSA,2.67,2.67,0,0,80.48,80.48,80.48,80.48,0,0,0,0,,,,
+Otoe-Missouria OTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Creek OTSA,69.96,68.95,57.18,25.04,84.42,84.42,84.4,84.21,29.27,29.26,28.13,28.13,,,,
+Kiowa-Comanche-Apache-Fort Sill Apache OTSA,14.42,13.85,10.46,3.46,71.54,71.54,71.54,71.51,7.9,7.9,7.85,6.04,,,,
+Citizen Potawatomi Nation-Absentee Shawnee OTSA,55.34,54.29,27.07,12.18,54.64,53.55,52.46,51.97,20.07,20.07,20.07,20.07,,,,
+Modoc OTSA,98.41,98.41,98.41,0,0,0,0,0,98.41,98.41,98.41,98.41,,,,
+Ottawa OTSA,1.73,1.73,1.73,0,93.03,93.03,93.03,93.03,29.74,29.74,29.74,29.74,,,,
+Peoria OTSA,2.12,2.12,2.12,0,82.96,82.96,82.96,82.96,23.7,23.7,23.7,23.7,,,,
+Quapaw OTSA,0,0,0,0,48.59,48.59,48.59,48.59,22.02,22.02,22.02,22.02,,,,
+Wyandotte OTSA,75.18,75.18,75.18,0,0,0,0,0,93.88,93.88,93.88,93.88,,,,
+Seneca-Cayuga OTSA,23.09,23.09,23.09,0,65.22,65.22,65.22,65.22,86.21,86.21,86.21,86.21,,,,
+Caddo-Wichita-Delaware OTSA,63.91,63.79,60.07,2.72,18.77,18.77,15.26,0,0.72,0.72,0.72,0.72,,,,
+Cheyenne-Arapaho OTSA,42.47,42.35,37,15.66,54.94,54.94,54.94,54.94,12.3,12.3,12.29,11.63,,,,
+Eastern Shawnee OTSA,62.58,62.58,62.58,0,0,0,0,0,98.67,98.67,98.67,98.67,,,,
+Miami OTSA,0,0,0,0,0,0,0,0,84.31,84.31,84.31,84.31,,,,
+Iowa OTSA,17.71,17.71,0.96,0,2.07,2.07,2.07,2.07,3.34,3.34,3.34,3.34,,,,
+Sac and Fox OTSA,27.73,25.41,9.5,1.11,75.55,75.55,75.55,75.55,4.13,4.13,4.08,4.08,,,,
+Kickapoo OTSA,30.1,29.75,4.3,0.88,55.36,55.36,55.36,55.36,0,0,0,0,,,,
+Nanticoke Lenni Lenape SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Haliwa-Saponi SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Star Muskogee Creek SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Coharie SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Lumbee SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Waccamaw Siouan SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Ramapough SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Lenape Indian Tribe of Delaware SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Cher-O-Creek SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Cherokee Tribe of Northeast Alabama SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Adais Caddo SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Eastern Chickahominy SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Chickahominy SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+United Houma Nation SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Upper South Carolina Pee Dee SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Clifton Choctaw SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Beaver Creek SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Waccamaw SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Pee Dee SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Nanticoke Indian Tribe SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Apache Choctaw SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Sappony SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Echota Cherokee SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+MaChis Lower Creek SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Meherrin SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Occaneechi-Saponi SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+United Cherokee Ani-Yun-Wiya Nation SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Four Winds Cherokee SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Wassamasaw SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Santee SDTSA,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+Mechoopda TDSA,0,0,0,0,99.59,99.59,99.59,99.59,0,0,0,0,,,,
+Cayuga Nation TDSA,27.11,27.11,0,0,61.27,61.27,61.27,61.27,2.29,2.29,2.29,2.29,,,,
+Ione Band of Miwok TDSA,50,50,50,0,37.5,37.5,37.5,37.5,0,0,0,0,,,,
+Samish TDSA,94.15,85.34,0,0,68.43,68.43,68.34,63.44,39.26,39.26,39.26,39.26,,,,
+Creek/Seminole joint-use OTSA,8.33,8.33,0,0,48.58,48.58,48.58,42.84,0,0,0,0,,,,
+Kaw/Ponca joint-use OTSA,21.96,21.96,19,7.32,97.12,97.12,97.12,97.12,0,0,0,0,,,,
+Miami/Peoria joint-use OTSA,0,0,0,0,97.9,97.9,97.9,97.9,3.77,3.77,3.77,3.77,,,,
+Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA,89.93,89.93,5.54,4.99,59.7,59.7,3.14,0,13.71,13.71,13.71,13.71,,,,
+Kickapoo (KS) Reservation/Sac and Fox Nation Trust Land joint-use area,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+San Felipe Pueblo/Santa Ana Pueblo joint-use area,0,0,0,0,0,0,0,0,0,0,0,0,,,,
+San Felipe Pueblo/Santo Domingo Pueblo joint-use area,0,0,0,0,0,0,0,0,0,0,0,0,,,,

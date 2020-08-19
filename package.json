@@ -1,0 +1,29 @@
+{
+  "name": "leidosaisesmap",
+  "version": "1.0.0",
+  "description": "Tribal BroadBand Display",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slycane9/leidosaisesmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slycane9/leidosaisesmap/issues"
+  },
+  "homepage": "https://github.com/slycane9/leidosaisesmap#readme",
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27",
+    "neat-csv": "^5.2.0",
+    "node-geocoder": "^3.27.0"
+  }
+}
